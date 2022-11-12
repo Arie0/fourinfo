@@ -1,13 +1,13 @@
-package com.ljinfo.ForInfo;
+package com.ljinfo.fourinfo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ForInfoApplication {
+public class FourinfoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ForInfoApplication.class, args);
+		SpringApplication.run(FourinfoApplication.class, args);
 	}
 
 }
